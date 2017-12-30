@@ -1,2 +1,2 @@
 # heavenly-salon
-This is small project for a family friend's salon.
+This is small project for a friend's salon.
